@@ -25,7 +25,7 @@
        url('../fonts/arvo-v13-latin-italic.svg#Arvo') format('svg'); /* Legacy iOS */
 }
 /* arvo-700 - latin */
-@font-face {
+@font-face {!
   font-family: 'Arvo';
   font-style: normal;
   font-weight: 700;
